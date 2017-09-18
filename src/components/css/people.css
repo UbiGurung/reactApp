@@ -1,0 +1,12 @@
+#people{
+    list-style: none;
+}
+
+#people li{
+    display: inline-block;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+    background-color: orangered;
+    border: 2px black dashed;
+}
